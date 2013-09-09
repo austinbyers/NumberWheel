@@ -7,8 +7,8 @@ Overview
 The NumberWheel is a Visual C# program that was sponsored by the University of Chicago for research purposes.
 (In fact, it was part of the same research project as my CogAssess repo.)
 The researchers needed a way to visually generate a random numnber on the computer, and the solution
-we came up with was a spinning wheel, much like the Wheel of Fortune. The participant clicks on the wheel,
-and it spins and then slows and stops on a randomly chosen number. 
+we came up with was a spinning wheel, much like the Wheel of Fortune. The wheel spins when the participant
+clicks on it, eventually stopping on a randomly chosen number. 
 
 The heart of the program is the GameWheel class, which can be easily added to any C# application.
 The class provides methods to create, spin, and draw the wheel, as well to set the graphics surface.
